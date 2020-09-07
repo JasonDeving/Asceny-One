@@ -1,0 +1,805 @@
+[{
+	"Name": "LOL",
+	"Type": 1,
+	"GUID": "",
+	"Icon": "LOL.png",
+	"IconSrc": "macro_icon_lol",
+	"Data": [{
+		"Name": "Qw二连",
+		"Type": 0,
+		"GUID": "11859524-DC42-4fd5-8A56-A0FFC66F965D",
+		"Icon": "LOL_EZ.png"
+	},{
+		"Name": "暴力三连",
+		"Type": 0,
+		"GUID": "AC618063-C441-4242-B1BB-03B88B6B93BF",
+		"Icon": "LOL_安妮.png"
+	},{
+		"Name": "起手四连（三层）",
+		"Type": 0,
+		"GUID": "E6F1432D-A58E-414f-A400-0BE7DAF00D1A",
+		"Icon": "LOL_安妮.png"
+	},{
+		"Name": "QER",
+		"Type": 0,
+		"GUID": "6252D73B-DA78-4c7e-8D04-3C2DADD43BDB",
+		"Icon": "LOL_德玛.png"
+	},{
+		"Name": "E闪",
+		"Type": 0,
+		"GUID": "AE555895-2697-448b-B9D8-0B0E58080FAB",
+		"Icon": "LOL_法外狂徒.png"
+	},{
+		"Name": "激光三连",
+		"Type": 0,
+		"GUID": "795FC7AB-3614-4806-9A81-6B44FFB3C3D7",
+		"Icon": "LOL_光辉.png"
+	},{
+		"Name": "腾云粉碎击",
+		"Type": 0,
+		"GUID": "29051C6F-071F-41c2-9F94-3189178BD985",
+		"Icon": "LOL_猴子.png"
+	},{
+		"Name": "EQ连闪（F闪）",
+		"Type": 0,
+		"GUID": "2343091A-3841-47bd-BFEE-4577E806489D",
+		"Icon": "LOL_皇子.png"
+	},{
+		"Name": "晕住W",
+		"Type": 0,
+		"GUID": "8FF84F5B-1EE5-453e-84E2-23571A0C7BE2",
+		"Icon": "LOL_火男.png"
+	},{
+		"Name": "一秒5刀",
+		"Type": 0,
+		"GUID": "CCD30162-E6BE-43fe-B79C-5BCD4032168C",
+		"Icon": "LOL_剑姬.png"
+	},{
+		"Name": "Q起手戳",
+		"Type": 0,
+		"GUID": "716C5CA8-9823-4659-BF8A-8188BBCE473E",
+		"Icon": "LOL_剑魔.png"
+	},{
+		"Name": "一秒5刀",
+		"Type": 0,
+		"GUID": "99B46982-980C-4855-9415-190C122E592D",
+		"Icon": "LOL_剑魔.png"
+	},{
+		"Name": "一套秒人",
+		"Type": 0,
+		"GUID": "A77A7C9B-933C-45b5-AEFC-5BA725C56DDB",
+		"Icon": "LOL_皎月.png"
+	},{
+		"Name": "QE二连加速炮",
+		"Type": 0,
+		"GUID": "19D676CB-D5CD-415f-9315-3815BD09E40A",
+		"Icon": "LOL_杰斯.png"
+	},{
+		"Name": "种子耗血",
+		"Type": 0,
+		"GUID": "9FACB88C-68FA-4b71-9797-34E0AE969E7A",
+		"Icon": "LOL_婕拉.png"
+	},{
+		"Name": "种子一套全甩",
+		"Type": 0,
+		"GUID": "C9C31CEF-0A34-4bc9-A6FA-F94796F3862B",
+		"Icon": "LOL_婕拉.png"
+	},{
+		"Name": "连击",
+		"Type": 0,
+		"GUID": "EE3BE443-81C7-42c7-9324-671DC5853374",
+		"Icon": "LOL_九尾.png"
+	},{
+		"Name": "EF闪",
+		"Type": 0,
+		"GUID": "AC906512-B594-4b1e-A338-DFA04E5B7787",
+		"Icon": "LOL_酒桶.png"
+	},{
+		"Name": "残血收割一套",
+		"Type": 0,
+		"GUID": "04E7D91F-1884-44e1-AB61-09626F752ADA",
+		"Icon": "LOL_卡特.png"
+	},{
+		"Name": "跳眼",
+		"Type": 0,
+		"GUID": "99A4A1EC-329E-4eb5-958C-469897F875D3",
+		"Icon": "LOL_卡特.png"
+	},{
+		"Name": "抓着拍",
+		"Type": 0,
+		"GUID": "076C3D8A-AF66-430b-892B-06154B7E181A",
+		"Icon": "LOL_狼人.png"
+	},{
+		"Name": "拉转致残",
+		"Type": 0,
+		"GUID": "23892D54-E91F-450b-8EAD-687CADCD8B61",
+		"Icon": "LOL_洛手.png"
+	},{
+		"Name": "R闪",
+		"Type": 0,
+		"GUID": "828A83E6-7B45-4739-A7C8-EF2B33B02A78",
+		"Icon": "LOL_盲僧.png"
+	},{
+		"Name": "插眼W",
+		"Type": 0,
+		"GUID": "C0C747B1-A6A5-489b-83CD-CE3777F47553",
+		"Icon": "LOL_盲僧.png"
+	},{
+		"Name": "光速秒",
+		"Type": 0,
+		"GUID": "AF3DF062-72A3-4958-BA22-D3FE36386D34",
+		"Icon": "LOL_男刀.png"
+	},{
+		"Name": "稳妥一套秒",
+		"Type": 0,
+		"GUID": "EBD7CDA0-607B-451c-8512-67E365390900",
+		"Icon": "LOL_男刀.png"
+	},{
+		"Name": "二连",
+		"Type": 0,
+		"GUID": "FE2EA40A-003E-4429-ACF3-DE55948FAF51",
+		"Icon": "LOL_女警.png"
+	},{
+		"Name": "QA",
+		"Type": 0,
+		"GUID": "93619a13-8e5c-4c74-bb50-4e0821dea2f9",
+		"Icon": "LOL_瑞文.png"
+	},{
+		"Name": "一键飘移",
+		"Type": 0,
+		"GUID": "63C04E2E-D0EB-4fd2-AF29-D27B4F577F30",
+		"Icon": "LOL_沙皇.png"
+	},{
+		"Name": "嘲讽闪现",
+		"Type": 0,
+		"GUID": "6674CB37-99F0-47a7-B548-F157EE34E347",
+		"Icon": "LOL_慎.png"
+	},{
+		"Name": "瞄准后排开团",
+		"Type": 0,
+		"GUID": "C4722B69-94AF-471f-90E5-B112BDE51C8B",
+		"Icon": "LOL_石头.png"
+	},{
+		"Name": "双重炸弹",
+		"Type": 0,
+		"GUID": "CC8F3C48-0D00-471e-8365-968648D1D329",
+		"Icon": "LOL_时光老人.png"
+	},{
+		"Name": "三连捕蝉",
+		"Type": 0,
+		"GUID": "0EBDB6BC-4CB1-46d2-94FB-9733F8408B71",
+		"Icon": "LOL_螳螂.png"
+	},{
+		"Name": "晕住一套",
+		"Type": 0,
+		"GUID": "AF3703AF-43B4-4a9d-8299-0D7260B8538E",
+		"Icon": "LOL_维克兹.png"
+	},{
+		"Name": "一套带你走",
+		"Type": 0,
+		"GUID": "058C16CB-640E-400b-B532-F11F1A011E3D",
+		"Icon": "LOL_小法师.png"
+	},{
+		"Name": "QE晕",
+		"Type": 0,
+		"GUID": "A68DD1B9-29D8-4e16-B267-BCDF5C4B969E",
+		"Icon": "LOL_辛德拉.png"
+	},{
+		"Name": "抓球晕人",
+		"Type": 0,
+		"GUID": "F587AE87-B001-438c-8B11-3D749651B0D7",
+		"Icon": "LOL_辛德拉.png"
+	},{
+		"Name": "一套秒人",
+		"Type": 0,
+		"GUID": "9447D602-6720-4e2d-920F-002A10167248",
+		"Icon": "LOL_虚空先知.png"
+	},{
+		"Name": "飘移EQ",
+		"Type": 0,
+		"GUID": "7416E872-540C-4841-9165-FEF929380961",
+		"Icon": "LOL_亚索.png"
+	},{
+		"Name": "QE二连",
+		"Type": 0,
+		"GUID": "2BA7BE69-0898-426c-979B-15FB311C929C",
+		"Icon": "LOL_妖姬.png"
+	},{
+		"Name": "技能全甩",
+		"Type": 0,
+		"GUID": "2D10C713-3131-43c7-9B23-64F603D5CA2F",
+		"Icon": "LOL_妖姬.png"
+	},{
+		"Name": "R+秒W",
+		"Type": 0,
+		"GUID": "1C656883-D293-4101-8040-BA479DFCAE17",
+		"Icon": "LOL_影流劫.png"
+	},{
+		"Name": "WQE消耗",
+		"Type": 0,
+		"GUID": "9878D070-EF62-4493-95F2-3B115AC94747",
+		"Icon": "LOL_影流劫.png"
+	},{
+		"Name": "秒W",
+		"Type": 0,
+		"GUID": "9C5BB1D6-2421-4100-8717-593C5C74E230",
+		"Icon": "LOL_影流劫.png"
+	},{
+		"Name": "冲击毁灭",
+		"Type": 0,
+		"GUID": "112EBE2A-4356-43e5-9228-1F05492DCB78",
+		"Icon": "LOL_远古巫灵.png"
+	},{
+		"Name": "菊花枪法",
+		"Type": 0,
+		"GUID": "F2C08393-F044-432c-8C0C-436DE1DBC948",
+		"Icon": "LOL_赵信.png"
+	},{
+		"Name": "连击",
+		"Type": 0,
+		"GUID": "ABE5C7EE-8C52-43b7-91B0-334322E19F5B",
+		"Icon": "LOL_蜘蛛.png"
+	},{
+		"Name": "救人2连",
+		"Type": 0,
+		"GUID": "0A95F28E-B5CA-40fe-AF1D-DE50CD6563C9",
+		"Icon": "LOL_布隆.png"
+	},{
+		"Name": "控制2连",
+		"Type": 0,
+		"GUID": "26E7B56E-E955-4607-9B11-C4522CE99A56",
+		"Icon": "LOL_布隆.png"
+	},{
+		"Name": "二连",
+		"Type": 0,
+		"GUID": "8B9ED246-85DC-4b3f-8986-DD43FC5C72EA",
+		"Icon": "LOL_策士统领.png"
+	},{
+		"Name": "三连",
+		"Type": 0,
+		"GUID": "28E8B748-E2D8-4546-80F9-F1391805E4F4",
+		"Icon": "LOL_策士统领.png"
+	},{
+		"Name": "四连",
+		"Type": 0,
+		"GUID": "5388EE92-B643-41cb-9251-671B3B29C25B",
+		"Icon": "LOL_策士统领.png"
+	},{
+		"Name": "EW二连",
+		"Type": 0,
+		"GUID": "1B6D7FC4-E0BF-4cf2-A53E-2EE713EF696E",
+		"Icon": "LOL_翠神.png"
+	},{
+		"Name": "疯狂种草",
+		"Type": 0,
+		"GUID": "9903DC3C-60A1-4de9-98A0-469ACF17DFEA",
+		"Icon": "LOL_翠神.png"
+	},{
+		"Name": "控大",
+		"Type": 0,
+		"GUID": "45CCBB9C-DDB9-4273-841B-6C1C166D9D36",
+		"Icon": "LOL_翠神.png"
+	},{
+		"Name": "地雷导弹",
+		"Type": 0,
+		"GUID": "74D341E1-2A58-4f2f-BB0B-914F1B0BAC53",
+		"Icon": "LOL_大发明家.png"
+	},{
+		"Name": "强化导弹",
+		"Type": 0,
+		"GUID": "BA6383E1-FE76-48c6-8B0F-F2EBE2D5A39D",
+		"Icon": "LOL_大发明家.png"
+	},{
+		"Name": "强化地雷",
+		"Type": 0,
+		"GUID": "CD4F7EFD-6AB0-4afa-B238-A59C11A508FE",
+		"Icon": "LOL_大发明家.png"
+	},{
+		"Name": "强化炮台",
+		"Type": 0,
+		"GUID": "12B7282A-D204-4c25-9742-5F2C51D95A02",
+		"Icon": "LOL_大发明家.png"
+	},{
+		"Name": "攻击二连",
+		"Type": 0,
+		"GUID": "B2D08ADF-2E7A-4e6f-AC6A-55E5F6E749D6",
+		"Icon": "LOL_发条魔灵.png"
+	},{
+		"Name": "技能全甩",
+		"Type": 0,
+		"GUID": "553B1C21-3E41-41f2-A724-82E72D7434F0",
+		"Icon": "LOL_发条魔灵.png"
+	},{
+		"Name": "救人二连",
+		"Type": 0,
+		"GUID": "1F27F99C-EC1C-4c5a-A5AB-6BEB669D4DC6",
+		"Icon": "LOL_发条魔灵.png"
+	},{
+		"Name": "机枪弹",
+		"Type": 0,
+		"GUID": "D2164690-F107-437a-9AE5-4C546495F88A",
+		"Icon": "LOL_飞机.png"
+	},{
+		"Name": "极限逃生（D闪）",
+		"Type": 0,
+		"GUID": "2D6C609E-B8F9-4848-8A76-8BE0F5FE1C65",
+		"Icon": "LOL_飞机.png"
+	},{
+		"Name": "技能全甩",
+		"Type": 0,
+		"GUID": "F7B89178-6467-4d0a-90A5-F9552A753415",
+		"Icon": "LOL_飞机.png"
+	},{
+		"Name": "WQ二连",
+		"Type": 0,
+		"GUID": "FECB8D89-03EC-4ae5-BBC6-09AEF40BF382",
+		"Icon": "LOL_流浪法师.png"
+	},{
+		"Name": "技能一套",
+		"Type": 0,
+		"GUID": "74CF7A80-EB4C-4923-9E0F-EC9AE9ACCD71",
+		"Icon": "LOL_流浪法师.png"
+	},{
+		"Name": "QW二连",
+		"Type": 0,
+		"GUID": "613E43FB-DAE2-43a6-BDD1-94AE177EAE84",
+		"Icon": "LOL_龙王.png"
+	},{
+		"Name": "控大",
+		"Type": 0,
+		"GUID": "3F7340A9-1CBA-4679-92B2-860FE2A3CDDE",
+		"Icon": "LOL_龙王.png"
+	},{
+		"Name": "闪现E走",
+		"Type": 0,
+		"GUID": "0C6D11EF-7941-4c28-A8F5-892369816721",
+		"Icon": "LOL_龙王.png"
+	},{
+		"Name": "技能全甩",
+		"Type": 0,
+		"GUID": "F9560536-D3AE-4326-AA65-4298DFF9FA95",
+		"Icon": "LOL_深海泰坦.png"
+	},{
+		"Name": "拉炸",
+		"Type": 0,
+		"GUID": "5978C6FC-DE85-4cd2-A2CB-84E8CDB5B3A1",
+		"Icon": "LOL_深海泰坦.png"
+	},{
+		"Name": "QW二连",
+		"Type": 0,
+		"GUID": "D001FCCC-EEE7-4b02-A680-72CD92262F9D",
+		"Icon": "LOL_塔姆.png"
+	},{
+		"Name": "急速逃生",
+		"Type": 0,
+		"GUID": "B27EF080-90BB-4521-A19E-1D40BB9D8AC3",
+		"Icon": "LOL_塔姆.png"
+	},{
+		"Name": "急速E走",
+		"Type": 0,
+		"GUID": "F340BB4B-9BFA-44c6-86FB-DCD1075BBD6E",
+		"Icon": "LOL_小鱼人.png"
+	},{
+		"Name": "一套带走",
+		"Type": 0,
+		"GUID": "ABE5C7EE-8C52-43b7-91B0-334322E19F5B",
+		"Icon": "LOL_小鱼人.png"
+	},{
+		"Name": "EW二连",
+		"Type": 0,
+		"GUID": "C65AE605-81E9-48d2-9591-42BC474EDC7C",
+		"Icon": "LOL_星界游神.png"
+	},{
+		"Name": "Q大二连",
+		"Type": 0,
+		"GUID": "06334EC6-F0A2-438a-A70E-3EE2E961BCBC",
+		"Icon": "LOL_星界游神.png"
+	},{
+		"Name": "遁炮",
+		"Type": 0,
+		"GUID": "A6E7A1E0-993E-4484-86F7-7E406F1C558D",
+		"Icon": "LOL_虚空遁地兽.png"
+	},{
+		"Name": "遁走",
+		"Type": 0,
+		"GUID": "3AEFF452-EFD6-4023-9C75-303049F309CB",
+		"Icon": "LOL_虚空遁地兽.png"
+	},{
+		"Name": "二连",
+		"Type": 0,
+		"GUID": "45104374-7EA9-4552-8423-83E7E9BA9B9F",
+		"Icon": "LOL_岩雀.png"
+	},{
+		"Name": "闪跑",
+		"Type": 0,
+		"GUID": "40175092-143B-4f93-86CD-766348892BC7",
+		"Icon": "LOL_岩雀.png"
+	},{
+		"Name": "一套",
+		"Type": 0,
+		"GUID": "3A11EC89-4D80-4e62-94A8-19B52C44A5E8",
+		"Icon": "LOL_岩雀.png"
+	}]
+},{
+	"Name": "DOTA2",
+	"Type": 1,
+	"GUID": "",
+	"Icon": "DOTA2.png",
+	"IconSrc": "macro_icon_dota",
+	"Data": [{
+		"Name": "魂戒刷新",
+		"Type": 0,
+		"GUID": "D941D80B-62B8-41c4-BE26-7F39F8276FC5",
+		"Icon": "DOTA2_TK.png"
+	},{
+		"Name": "激光根",
+		"Type": 0,
+		"GUID": "B82FAE97-3D5E-4d38-B67B-2E77912EC391",
+		"Icon": "DOTA2_TK.png"
+	},{
+		"Name": "双幽魂",
+		"Type": 0,
+		"GUID": "FA2BA166-C8CE-4f75-92C2-F6B99F0B88AE",
+		"Icon": "DOTA2_电狗.png"
+	},{
+		"Name": "吹风三连",
+		"Type": 0,
+		"GUID": "0F564880-EE9B-46c4-99ED-44E60EB2EF4C",
+		"Icon": "DOTA2_火女.png"
+	},{
+		"Name": "准备J",
+		"Type": 0,
+		"GUID": "E743CD12-8B24-4128-BBFA-E406C3BD2D01",
+		"Icon": "DOTA2_军团.png"
+	},{
+		"Name": "冰墙",
+		"Type": 0,
+		"GUID": "3A283973-0B48-460e-82F5-34CD671862CD",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "吹风",
+		"Type": 0,
+		"GUID": "17538F72-3FB9-443b-A610-A3A882EF61FC",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "急速冷却",
+		"Type": 0,
+		"GUID": "7A14C12D-2708-49ef-8BED-273C9A709FD8",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "雷暴",
+		"Type": 0,
+		"GUID": "D3EEEB5F-8697-4b25-9DE7-A751B3B0C9C9",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "灵动迅捷",
+		"Type": 0,
+		"GUID": "93E84C08-2E8A-4220-B25D-152994A02BAC",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "熔岩精灵",
+		"Type": 0,
+		"GUID": "78ADEF0D-06C5-4812-B447-64E1616CA2A5",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "天火",
+		"Type": 0,
+		"GUID": "7015D73B-8CA7-4a58-BB47-022F9C80E109",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "推波",
+		"Type": 0,
+		"GUID": "F5E9C6C3-5989-4ffb-BEF0-FA888F5B1201",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "幽灵漫步",
+		"Type": 0,
+		"GUID": "37D34D3F-BB29-447e-AA1C-6398CCEDF95E",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "陨石",
+		"Type": 0,
+		"GUID": "DB48882F-682C-4ac8-AAF2-438E47404BDB",
+		"Icon": "DOTA2_卡尔.png"
+	},{
+		"Name": "船长三连",
+		"Type": 0,
+		"GUID": "89C2F754-EA98-42e5-8043-7A053D99C3CF",
+		"Icon": "DOTA2_昆卡.png"
+	},{
+		"Name": "吹风接晕",
+		"Type": 0,
+		"GUID": "A883D702-0FFA-4236-ADB7-E0986004EC09",
+		"Icon": "DOTA2_拉席克.png"
+	},{
+		"Name": "闪电接晕",
+		"Type": 0,
+		"GUID": "A0A809B5-B381-416d-9DD3-6824D26B74B1",
+		"Icon": "DOTA2_拉席克.png"
+	},{
+		"Name": "双烫齐开",
+		"Type": 0,
+		"GUID": "FFE79BDB-FCBA-4faa-94F8-BC6FA58F6804",
+		"Icon": "DOTA2_拉席克.png"
+	},{
+		"Name": "扭头大",
+		"Type": 0,
+		"GUID": "E307A426-C982-405e-86B4-669D3E411802",
+		"Icon": "DOTA2_猛马.png"
+	},{
+		"Name": "5狗飞",
+		"Type": 0,
+		"GUID": "E6124220-0C61-4544-98BF-332DB0F30908",
+		"Icon": "DOTA2_米波.png"
+	},{
+		"Name": "深渊风暴",
+		"Type": 0,
+		"GUID": "4C4F2469-356F-4f9c-B3DE-6ADB20769983",
+		"Icon": "DOTA2_孽主.png"
+	},{
+		"Name": "无缝咬",
+		"Type": 0,
+		"GUID": "8ADA72F9-8CEE-4cfd-BC1D-6F95E984A483",
+		"Icon": "DOTA2_屠夫.png"
+	},{
+		"Name": "完美控8秒",
+		"Type": 0,
+		"GUID": "4BE2BD2F-7977-4d28-B0E9-4202AA3A6A4E",
+		"Icon": "DOTA2_小Y.png"
+	},{
+		"Name": "一键运送",
+		"Type": 0,
+		"GUID": "6D7919B8-97B8-4f48-9B30-9CADF2B499CA",
+		"Icon": "DOTA2_信使.png"
+	},{
+		"Name": "EQ二连",
+		"Type": 0,
+		"GUID": "FA2999AB-FCF9-4019-81C1-31FAD762F77C",
+		"Icon": "DOTA2_沉默术士.png"
+	},{
+		"Name": "技能全甩",
+		"Type": 0,
+		"GUID": "AD76FDFF-655F-46c6-AF50-CF47722DAED0",
+		"Icon": "DOTA2_沉默术士.png"
+	},{
+		"Name": "飞入变蛋",
+		"Type": 0,
+		"GUID": "F4415DBB-2105-4124-B75B-E724EC80B47F",
+		"Icon": "DOTA2_凤凰.png"
+	},{
+		"Name": "飞入撒球变蛋",
+		"Type": 0,
+		"GUID": "FB6D8F38-1452-41d5-B6F2-3F68A705641B",
+		"Icon": "DOTA2_凤凰.png"
+	},{
+		"Name": "炎烤加烈火精灵",
+		"Type": 0,
+		"GUID": "B292CDBB-ED48-412e-975A-518EF6FE7AEE",
+		"Icon": "DOTA2_凤凰.png"
+	},{
+		"Name": "无耗地雷",
+		"Type": 0,
+		"GUID": "21704345-BE23-4703-A06F-75884E5D4DFE",
+		"Icon": "DOTA2_工程师.png"
+	},{
+		"Name": "无耗地雷加晕",
+		"Type": 0,
+		"GUID": "C560E831-E167-46e3-9EFE-51805DD4823C",
+		"Icon": "DOTA2_工程师.png"
+	},{
+		"Name": "拉大",
+		"Type": 0,
+		"GUID": "95CB088D-0C7C-40f5-890C-FAD6074E32A5",
+		"Icon": "DOTA2_黑暗贤者.png"
+	},{
+		"Name": "无耗烫",
+		"Type": 0,
+		"GUID": "176B6881-AD08-4067-820D-7DFB44F8AC2F",
+		"Icon": "DOTA2_黑暗贤者.png"
+	},{
+		"Name": "无耗烫+急速",
+		"Type": 0,
+		"GUID": "EF59BC9A-4205-4a08-9E00-69DEE7A6C8A5",
+		"Icon": "DOTA2_黑暗贤者.png"
+	},{
+		"Name": "技能全甩",
+		"Type": 0,
+		"GUID": "9F1DE781-7D89-43ad-ACE2-EB9A604E2D65",
+		"Icon": "DOTA2_火猫.png"
+	},{
+		"Name": "三魂飞",
+		"Type": 0,
+		"GUID": "FE613907-3F59-48c9-8D50-E9BB414D46F2",
+		"Icon": "DOTA2_火猫.png"
+	},{
+		"Name": "跳捆",
+		"Type": 0,
+		"GUID": "75211C36-F90F-44f2-8DA2-A1321A4720BD",
+		"Icon": "DOTA2_火猫.png"
+	},{
+		"Name": "技能全甩",
+		"Type": 0,
+		"GUID": "9A41B4B2-F149-469a-99A1-0C9FBDD552FE",
+		"Icon": "DOTA2_莱恩.png"
+	},{
+		"Name": "羊大接晕",
+		"Type": 0,
+		"GUID": "2E81E591-D531-4ae1-8FAF-935EAC4B1630",
+		"Icon": "DOTA2_莱恩.png"
+	},{
+		"Name": "技能全甩",
+		"Type": 0,
+		"GUID": "DA415DF1-B01D-44ae-A38F-DDE6C278C7DF",
+		"Icon": "DOTA2_帕格纳.png"
+	},{
+		"Name": "虚无抽血",
+		"Type": 0,
+		"GUID": "67D1AAC8-403A-48e7-9580-39D3CEDE7661",
+		"Icon": "DOTA2_帕格纳.png"
+	},{
+		"Name": "虚无炸",
+		"Type": 0,
+		"GUID": "488ED063-45A5-4471-94BC-3C4CB5B07913",
+		"Icon": "DOTA2_帕格纳.png"
+	},{
+		"Name": "跳越隐藏",
+		"Type": 0,
+		"GUID": "0CF669A9-C7A1-4619-A0CF-C939B8651ACB",
+		"Icon": "DOTA2_齐天大圣.png"
+	},{
+		"Name": "加血",
+		"Type": 0,
+		"GUID": "354485F5-C056-4814-8527-5DADAB17BD70",
+		"Icon": "DOTA2_全能.png"
+	},{
+		"Name": "血套齐加",
+		"Type": 0,
+		"GUID": "CBE4D18B-08EB-425c-9913-CE559C48544C",
+		"Icon": "DOTA2_全能.png"
+	},{
+		"Name": "冰大",
+		"Type": 0,
+		"GUID": "9F436475-F346-4c6a-B195-A571B7179643",
+		"Icon": "DOTA2_双头龙.png"
+	},{
+		"Name": "冰火",
+		"Type": 0,
+		"GUID": "431FDD28-09B9-4658-8F9B-94210EB69C5C",
+		"Icon": "DOTA2_双头龙.png"
+	},{
+		"Name": "抽插",
+		"Type": 0,
+		"GUID": "5B355B19-8B30-4566-AD5E-5E4E5CAA2CE9",
+		"Icon": "DOTA2_司夜刺客.png"
+	},{
+		"Name": "抽插反震",
+		"Type": 0,
+		"GUID": "2C08EBB4-6376-477a-89C0-B9D0A68AA051",
+		"Icon": "DOTA2_司夜刺客.png"
+	},{
+		"Name": "技能甩完 逃走",
+		"Type": 0,
+		"GUID": "0236C7C4-283F-4adb-A5DE-319D6F5239C6",
+		"Icon": "DOTA2_司夜刺客.png"
+	},{
+		"Name": "跳W尖叫E",
+		"Type": 0,
+		"GUID": "3BB7BB93-B51C-4d8b-B0E9-77EA04ED5E67",
+		"Icon": "DOTA2_痛苦女王.png"
+	},{
+		"Name": "一套秒人",
+		"Type": 0,
+		"GUID": "43A0D8E6-68FC-44d9-9333-74EF17264A47",
+		"Icon": "DOTA2_痛苦女王.png"
+	},{
+		"Name": "盾奶",
+		"Type": 0,
+		"GUID": "787E8099-A3CE-4222-BF92-40110FA9EBC4",
+		"Icon": "DOTA2_亚巴顿.png"
+	},{
+		"Name": "魂戒盾奶",
+		"Type": 0,
+		"GUID": "4A76B360-6E5F-45ad-B142-A44E8D4ABC1A",
+		"Icon": "DOTA2_亚巴顿.png"
+	}]
+},{
+	"Name": "剑灵",
+	"Type": 1,
+	"GUID": "",
+	"Icon": "剑灵.png",
+	"IconSrc": "macro_icon_bs",
+	"Data": [{
+		"Name": "剑士卡刀",
+		"Type": 0,
+		"GUID": "8FE9F857-4658-474c-A552-17D94B0F4DFD",
+		"Icon": "剑灵_剑士.png"
+	},{
+		"Name": "力士卡刀",
+		"Type": 0,
+		"GUID": "FD5CBB4F-F62B-4a27-9093-D7FF33CDB7FE",
+		"Icon": "剑灵_力士.png"
+	},{
+		"Name": "拳师卡刀",
+		"Type": 0,
+		"GUID": "7405B67E-9290-4638-8EA0-F7D14B18DF4D",
+		"Icon": "剑灵_拳师.png"
+	}]
+},{
+	"Name": "逆战",
+	"Type": 1,
+	"GUID": "",
+	"Icon": "逆战.png",
+	"IconSrc": "macro_icon_af",
+	"Data": [{
+		"Name": "火力无限",
+		"Type": 0,
+		"GUID": "8D2A39F5-91DA-450d-AC3B-A404C9529257",
+		"Icon": "逆战_火力无限.png"
+	},{
+		"Name": "瞬狙",
+		"Type": 0,
+		"GUID": "732DD357-8070-49cd-8B04-F671E320A354",
+		"Icon": "逆战_瞬狙.png"
+	},{
+		"Name": "跳箱",
+		"Type": 0,
+		"GUID": "A3A0BAC7-27F9-4a05-A716-0030363F1E6A",
+		"Icon": "逆战_跳箱.png"
+	}]
+},{
+	"Name": "守望先锋",
+	"Type": 1,
+	"GUID": "",
+	"Icon": "OW.png",
+	"IconSrc": "macro_icon_ow",
+	"Data": [{
+		"Name": "左+右",
+		"Type": 0,
+		"GUID": "24722400-D906-49ac-B7D8-5F5A83E6CE2C",
+		"Icon": "OW_大锤.png"
+	},{
+		"Name": "秒人",
+		"Type": 0,
+		"GUID": "2AB0AFBB-A0EC-4878-8F2D-90CBA73BCE9D",
+		"Icon": "OW_路霸.png"
+	},{
+		"Name": "左+V",
+		"Type": 0,
+		"GUID": "4810101F-E0DD-4ba9-98B8-9351C8F558C3",
+		"Icon": "OW_路霸.png"
+	},{
+		"Name": "三发",
+		"Type": 0,
+		"GUID": "3B3AD8BF-62FC-4a21-980E-BC84715B3EFE",
+		"Icon": "OW_士兵76.png"
+	},{
+		"Name": "R+V",
+		"Type": 0,
+		"GUID": "AD537001-8B84-44ea-9B31-8A2C0D42B1F2",
+		"Icon": "OW_死神.png"
+	},{
+		"Name": "右+V",
+		"Type": 0,
+		"GUID": "482B5EC8-1B2E-4a0e-B2E1-9195E9E8352B",
+		"Icon": "OW_源氏.png"
+	}]
+},{
+	"Name": "PUBG",
+	"Type": 1,
+	"GUID": "",
+	"Icon": "PUBG.png",
+	"IconSrc": "macro_icon_pubg",
+	"Data": []
+}, {
+	"Name": "GK66",
+	"Type": 1,
+	"GUID": "",
+	"Icon": "defaultcate.png",
+	"IconSrc": "macro_icon_default_folder",
+	"Data": [{
+		"Name": "00",
+		"Type": 0,
+		"GUID": "9A3793A9-013E-4b34-A63A-7DA572985CB4",
+		"Icon": "default.png"
+	}]
+}]
