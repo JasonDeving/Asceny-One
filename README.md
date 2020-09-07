@@ -5,6 +5,9 @@ Asceny one keyboard drivers
 ```bash
 Just open Ascoftware.exe
 ```
-## License
+## Video
 [Video Review](https://youtu.be/5KFwZ8DzjCE)
+
+## License & Agreement
+I offer no customer support or responsibility of download. Any damages made by the software will not be my responsiblity. By downloading the software you agree that any damanges made by the software will be your own responsibility. This is merely a mirror to the download to athe drivers. This github repository is fan made. 
 
